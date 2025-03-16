@@ -11,6 +11,3 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=bbrainttech&color=blue">
 </p>
-<p align="center">
-    <a href="https://github.com/bbrainttech"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbrainttech&hide=php&theme=dark&layout=compact&langs_count=15&bg_color=101010&hide_title=true"></a>
-</p>
