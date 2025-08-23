@@ -22,7 +22,7 @@ Here’s my current arsenal of tools, languages, and frameworks:
 ### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -74,7 +74,6 @@ A Python-based data visualization and analysis tool using Pandas and Matplotlib.
 ## 🤩 Fun Facts
 
 - 🎵 I love listening to lo-fi beats while coding.
-- 🌱 Currently learning: Advanced Kubernetes and system design principles.
 - 🚴‍♂️ When I’m not coding, you’ll find me biking or exploring nature.
 
 ---
