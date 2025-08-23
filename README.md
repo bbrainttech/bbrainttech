@@ -69,7 +69,8 @@ A Python-based data visualization and analysis tool using Pandas and Matplotlib.
 
 ## 🤝 Let's Connect!
 
-[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/chiatiahrayan)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raynox)  
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white)](https://x.com/chiatiahrayan)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raynox)  
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/u/Expensive_Ad3992/s/cXN6nRJoQG)  
 [![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/rayantech.bsky.social)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=flat&logo=appveyor&logoColor=white)](https://your-portfolio-link.com)  
