@@ -49,15 +49,9 @@ Here’s my current arsenal of tools, languages, and frameworks:
 
 Here are some of the projects I've worked on that I’m most proud of:
 
-### [📱 Awesome App](https://github.com/rayantech/awesome-app)
-A full-featured app that does something amazing! Built with React Native and Firebase, it includes real-time updates, authentication, and a sleek UI.
+### 🌟 Featured Projects
 
-### [🌐 MyPortfolio](https://github.com/rayantech/myportfolio)
-A personal portfolio website showcasing my skills, projects, and contact details. Built with Next.js and TailwindCSS for fast and responsive design.
-
-### [📊 DataAnalyzer](https://github.com/rayantech/data-analyzer)
-A Python-based data visualization and analysis tool using Pandas and Matplotlib. Perfect for exploring and understanding complex datasets.
-
+[![Coming Soon](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=435&lines=Coming+Soon)]()
 ---
 
 ## 📊 GitHub Stats
