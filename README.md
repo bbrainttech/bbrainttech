@@ -46,11 +46,9 @@ Here’s my current arsenal of tools, languages, and frameworks:
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 ---
 
+
+
 ## 🌟 Featured Projects
-
-Here are some of the projects I've worked on that I’m most proud of:
-
-### 🌟 Featured Projects
 
 [![Coming Soon](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=435&lines=Coming+Soon)]()
 ---
@@ -68,7 +66,7 @@ Here are some of the projects I've worked on that I’m most proud of:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/raynox)  
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/u/Expensive_Ad3992/s/cXN6nRJoQG)  
 [![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/rayantech.bsky.social)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=flat&logo=appveyor&logoColor=white)](https://your-portfolio-link.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=flat&logo=appveyor&logoColor=white)](https://rayantech.vercel.app)  
 ---
 
 ## 🤩 Fun Facts
