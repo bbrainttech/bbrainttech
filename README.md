@@ -56,7 +56,7 @@ Here’s my current arsenal of tools, languages, and frameworks:
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=bbrainttech&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbrainttech&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bbrainttech&layout=compact&theme=merko)
 
 ---
 
