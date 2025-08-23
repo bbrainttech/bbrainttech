@@ -10,9 +10,9 @@ Here’s my current arsenal of tools, languages, and frameworks:
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -22,7 +22,6 @@ Here’s my current arsenal of tools, languages, and frameworks:
 ### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Golang](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -73,8 +72,8 @@ A Python-based data visualization and analysis tool using Pandas and Matplotlib.
 
 ## 🤩 Fun Facts
 
-- 🎵 I love listening to lo-fi beats while coding.
-- 🚴‍♂️ When I’m not coding, you’ll find me biking or exploring nature.
+- 🎧 I enjoy experimenting with new tech gadgets and tools.
+- 🏔️ Exploring mountains and hiking trails is my weekend therapy.
 
 ---
 
