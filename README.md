@@ -1,6 +1,6 @@
 # Hi there, I'm Rayantech! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer 🚀 who loves building innovative and efficient solutions using modern technologies. Whether it's crafting sleek web applications, optimizing backend systems, or diving into open-source projects, I'm always up for the challenge.
+Welcome to my GitHub profile! I'm a passionate software developer 🚀 who loves building innovative and efficient solutions across web, mobile, and backend technologies. From crafting sleek web apps to optimizing backend systems and exploring open-source projects, I enjoy turning ideas into reality. Let's build something amazing together!
 
 ---
 
@@ -76,8 +76,9 @@ A Python-based data visualization and analysis tool using Pandas and Matplotlib.
 
 ## 🤩 Fun Facts
 
-- 🎧 I enjoy experimenting with new tech gadgets and tools.
-- 🏔️ Exploring mountains and hiking trails is my weekend therapy.
+- 🎧 I love experimenting with new tech gadgets, software tools, and frameworks.
+- 📚 Always learning: I enjoy reading about software architecture, AI, and productivity hacks.
+- ☕ Coffee enthusiast – coding without it is just a bug waiting to happen!
 
 ---
 
