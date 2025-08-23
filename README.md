@@ -1,4 +1,4 @@
-# Hi there, I'm BBraintTech! 👋
+# Hi there, I'm Rayantech! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer 🚀 who loves building innovative and efficient solutions using modern technologies. Whether it's crafting sleek web applications, optimizing backend systems, or diving into open-source projects, I'm always up for the challenge.
 
@@ -10,7 +10,7 @@ Here’s my current arsenal of tools, languages, and frameworks:
 
 - **Languages**: JavaScript, Python, TypeScript, C++
 - **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express, Django
+- **Backend**: Node.js, Express, 
 - **Databases**: PostgreSQL, MongoDB, Firebase
 - **DevOps**: Docker, Kubernetes, GitHub Actions
 - **Tools**: VS Code, Postman, Figma, Linux
