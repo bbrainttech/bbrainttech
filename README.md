@@ -35,7 +35,7 @@ Here’s my current arsenal of tools, languages, and frameworks:
 ### ⚙️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/n8n-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-326CE5?style=flat&logo=n8n&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
