@@ -47,9 +47,9 @@ Here’s my current arsenal of tools, languages, and frameworks:
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 ---
 
-### ⚡ Automations
+<!-- ### ⚡ Automations
 ![n8n](https://img.shields.io/badge/n8n-EA4B35?style=flat&logo=n8n&logoColor=white)
-
+-->
 ## 🌟 Featured Projects
 
 [![Coming Soon](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF5733&width=435&lines=Coming+Soon)]()
