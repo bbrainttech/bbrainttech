@@ -36,8 +36,6 @@ Here’s my current arsenal of tools, languages, and frameworks:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-1d2c4c?style=flat&logo=n8n&logoColor=white)
-![Monorepo](https://img.shields.io/badge/Monorepo-000000?style=flat&logo=nx&logoColor=white)
 ![Monorepo](https://img.shields.io/badge/Monorepo-000000?style=flat&logo=turborepo&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
 ![Webhook](https://img.shields.io/badge/Webhook-FF6F00?style=flat&logo=webhooks&logoColor=white)
@@ -49,6 +47,9 @@ Here’s my current arsenal of tools, languages, and frameworks:
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=white)
 ---
+
+### ⚡ Automations
+![n8n](https://img.shields.io/badge/n8n-1d2c4c?style=flat&logo=n8n&logoColor=white)
 
 
 
