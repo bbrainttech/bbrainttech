@@ -38,7 +38,7 @@ Here’s my current arsenal of tools, languages, and frameworks:
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Monorepo-EF4444?style=flat&logo=turborepo&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
-![Webhook](https://img.shields.io/badge/Webhook-FF6F00?style=flat&logo=webhooks&logoColor=white)
+![Webhook](https://img.shields.io/badge/Webhook-FF6F00?style=flat&logo=webhook&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -50,8 +50,6 @@ Here’s my current arsenal of tools, languages, and frameworks:
 
 ### ⚡ Automations
 ![n8n](https://img.shields.io/badge/n8n-EA4B35?style=flat&logo=n8n&logoColor=white)
-
-
 
 ## 🌟 Featured Projects
 
